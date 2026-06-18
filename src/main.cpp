@@ -5,8 +5,8 @@
 // =====================
 // WIFI CONFIG
 // =====================
-const char* ssid = "Log1n";
-const char* password = "#Anti Hama Anjing";
+const char* ssid = "WIFI_NAME";
+const char* password = "WIFI_PASSWORD";
 
 // =====================
 // Pin Configuration
